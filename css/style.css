@@ -3,31 +3,27 @@ body {
   color: #747704;
   font-weight: 300;
 }
+
 .small-caps {
   font-variant: small-caps;
 }
+
 .text-muted {
   color: #bcbbbb;
 }
+
 .text-thin {
   font-weight: 300;
 }
+
 .title-super {
   font-size: 60px;
 }
+
 .title-logo {
   margin-top: 20px;
 }
+
 .figs {
-  max-height: 300px;
-  max-width: 300px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.rotate90 {
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
+  height: 300px;
 }
